@@ -51,8 +51,6 @@ Sentiment-Analysis-Spark/
 │
 ├── sentiment_analysis_colab.ipynb   # Main Colab notebook
 │
-├── lr_results_csv/
-│
 └── README.md
 
 ````
