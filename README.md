@@ -49,18 +49,9 @@ For access to the full dataset: [Yelp Dataset](https://www.yelp.com/dataset)
 
 Sentiment-Analysis-Spark/
 │
-├── data/
-│   └── yelp_academic_dataset_review.json
+├── sentiment_analysis_colab.ipynb   # Main Colab notebook
 │
-├── notebooks/
-│   └── sentiment_analysis_colab.ipynb   # Main Colab notebook
-│
-├── app.py                               # Streamlit UI
-│
-├── results/
-│   ├── lr_results.csv                   # Logistic Regression results
-│   ├── nb_results.csv                   # Naïve Bayes results
-│   └── charts/                          # Visualizations
+├── lr_results_csv/
 │
 └── README.md
 
